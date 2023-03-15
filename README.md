@@ -3,7 +3,7 @@
 💻 Engineering Projects:</h2>
 
 - <b>Georgia Tech Experimental Rocketry Club (Mini-Motors Team)</b>
-  - [Grain Size Simulation Code (Group Project)](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Grain Size Simulation Code (Group Project)(Optimization Code)](https://github.com/Joshferre/MiniMotorSimulationGroup)
 
 
 <h2> 🤳 Connections:</h2>
