@@ -2,8 +2,9 @@
 
 💻 Engineering Projects:</h2>
 
-- <b>Georgia Tech Experimental Rocketry Club (Mini-Motors Team)</b>
-  - [Grain Size Simulation Code (Group Project)(Optimization Code)](https://github.com/Joshferre/MiniMotorSimulationGroup)
+- <b>Georgia Tech Experimental Rocketry Club (Mini-Motors Team, Group Project)</b>
+  - [Grain Size Simulation Code 1 (Input Code)](https://github.com/Joshferre/MiniMotorSimulationGroup1)
+  - [Grain Size Simulation Code 2 (Optimization Code)](https://github.com/Joshferre/MiniMotorSimulationGroup)
 
 
 <h2> 🤳 Connections:</h2>
